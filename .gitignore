@@ -1,0 +1,9 @@
+# SSL private keys — never commit these!
+config/ssl/*.key
+
+# MySQL data volume
+xampp_data/
+
+# OS files
+.DS_Store
+Thumbs.db
